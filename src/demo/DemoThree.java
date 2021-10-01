@@ -9,6 +9,10 @@ public class DemoThree {
 		String name = "Crystal";
 		
 		System.out.println("My Name is " + name);
+		
+		int age = 27;
+		
+		System.out.println(age);
 	}
 
 }
